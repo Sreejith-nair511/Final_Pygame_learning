@@ -134,7 +134,7 @@ Surfaces = the building blocks of visuals.
 
  Sounds play on channels, and music plays separately via pygame.mixer.music.
 
- <h1>completed project 
+ <h1>completed project   <br>
  Pokemania rpg
   <br>
  zelda rpg mechanic
