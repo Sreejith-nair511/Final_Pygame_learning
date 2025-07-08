@@ -6,6 +6,10 @@ Pygame is a Python library used to create 2D games and multimedia applications. 
  Core Concepts in Pygame
 Here are the main building blocks you need to understand:
 
+![Screenshot 2025-02-10 135235](https://github.com/user-attachments/assets/8bf1e528-a1e1-4709-a7ba-9be354627f6b)
+ ![Screenshot 2025-04-23 214121](https://github.com/user-attachments/assets/3b173598-4e22-4d68-9b18-a923a528efa0)
+
+
 Concept	Description
 pygame.init()	Initializes all the modules in pygame (graphics, audio, input, etc.)
 Game loop	Infinite loop that runs the game logic and updates screen
@@ -129,9 +133,7 @@ Surfaces = the building blocks of visuals.
  zelda rpg mechanic
  platformer complete 
  </h1>
- ![Screenshot 2025-02-10 135235](https://github.com/user-attachments/assets/8bf1e528-a1e1-4709-a7ba-9be354627f6b)
- ![Screenshot 2025-04-23 214121](https://github.com/user-attachments/assets/3b173598-4e22-4d68-9b18-a923a528efa0)
-
+ 
 
  Final Thoughts
 Pygame is perfect for learning game logic, even if you’re not a graphics wizard. It’s beginner-friendly, open-source, and runs on almost any OS.
