@@ -136,8 +136,11 @@ Surfaces = the building blocks of visuals.
 
  <h1>completed project 
  Pokemania rpg
+  <br>
  zelda rpg mechanic
- platformer complete 
+    <br>
+ platformer complete
+    <br>
  </h1>
  
 
