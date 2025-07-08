@@ -10,6 +10,8 @@ Here are the main building blocks you need to understand:
  ![Screenshot 2025-04-23 214121](https://github.com/user-attachments/assets/3b173598-4e22-4d68-9b18-a923a528efa0)
  ![Screenshot 2025-02-10 135626](https://github.com/user-attachments/assets/3eb7bda5-132b-4675-8d48-680dd56bf21b)
  ![Screenshot 2025-02-10 135612](https://github.com/user-attachments/assets/7f996146-5676-4776-989f-57a6e4101248)
+ ![image](https://github.com/user-attachments/assets/76b4e9cf-2239-438d-8279-d74137aec959)
+
 
 
 
